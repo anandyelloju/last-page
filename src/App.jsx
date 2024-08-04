@@ -30,7 +30,8 @@ function App() {
 
   return (
     <div className="max-w-md md:max-w-lg mx-auto mt-28 p-6 bg-yellow-300 rounded-lg shadow-2xl shadow-black">
-      <h1 className="text-4xl text-center font-bold mb-6">To-Do List</h1>
+      <h1 className="text-4xl text-center font-bold mb-3">Last Page</h1>
+      <p className="text-center font-semibold mb-3">Organize, Prioritize, and Conquer: The Modern To-Do List</p>
       <Form addTask={addTask} />
       <ul className="mt-4">
         {tasks.map((task, index) => (
