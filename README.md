@@ -1,9 +1,9 @@
-# To-Do List App
+# LastPage - To-Do List App
 
 A simple and efficient To-Do List application built using React and Tailwind CSS. This app helps you manage your tasks efficiently by allowing you to add, edit, delete, and mark tasks as completed.
 
 **Live Demo -** https://anandyelloju.github.io/todo-list-app/
-<!--
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
@@ -14,7 +14,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
+<!--
 ## Screenshots
 
 ![LastPage UI](ui.png)
