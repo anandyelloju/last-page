@@ -14,11 +14,11 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![LastPage UI](ui.png)
-
+<!--
 ## Installation
 
 1. Clone the repository:
