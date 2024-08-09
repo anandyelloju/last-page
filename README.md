@@ -18,7 +18,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 ## Screenshots
 
 ![LastPage UI](ui.png)
-<!--
+
 ## Installation
 
 1. Clone the repository:
@@ -37,7 +37,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
     ```bash
     npm run dev
     ```
-
+<!--
 ## Usage
 
 1. Open the app in your browser. By default, it should be running at `http://localhost:5173`.
