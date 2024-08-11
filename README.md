@@ -44,7 +44,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 2. Add new tasks using the input field and 'Add' button.
 3. Mark tasks as completed by clicking on them.
 4. Edit or delete tasks using the respective buttons next to each task.
-<!--
+
 ## Features
 
 - Add new tasks
@@ -52,7 +52,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 - Delete tasks
 - Mark tasks as completed
 - Responsive design
-
+<!--
 ## Technologies Used
 
 - React
