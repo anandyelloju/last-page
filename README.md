@@ -52,7 +52,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 - Delete tasks
 - Mark tasks as completed
 - Responsive design
-<!--
+
 ## Technologies Used
 
 - React
@@ -63,7 +63,7 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 - CSS
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
