@@ -63,11 +63,11 @@ A simple and efficient To-Do List application built using React and Tailwind CSS
 - CSS
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 - [Anand Yelloju](https://github.com/anandyelloju) - Project Creator
